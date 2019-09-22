@@ -75,7 +75,7 @@ You can request a pixel simply by giving the URL:
 
 ```java
 kickenadz kickenadz = new kickenadz();
-kickenadz.requestPixel("https://servedbykickenadz.com/default_banner.gif");
+kickenadz.requestPixel("https://kickenadz.com/default_banner.gif");
 ```
 
 ### Record Impression
